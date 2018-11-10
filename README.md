@@ -5,3 +5,5 @@ sublime merge와 github를 이용해 git을 배워봅시다.
 -sublime merge 알아보기
 -github애 원격저장소 생성하기
 문의는 02-yyyy-yyyy로부탁행
+-오픈소스에 기여해보기
+-문의는 010 로 부탁드립니다.
